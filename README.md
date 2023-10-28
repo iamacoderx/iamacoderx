@@ -1,4 +1,4 @@
-- ! hi, I’m @iamacoderx
+- ! hi, I’m otterlver / iamacoderx 
 -  I'm learning to code and play guitar!
 - 🌱 I’m currently learning python
 
